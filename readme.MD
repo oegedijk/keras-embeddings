@@ -1,5 +1,6 @@
 
 # Deep Learning Entity Embedding model in Keras
+by: Oege Dijk
 
 Neural Network models are almost always better for unstructured data (e.g.
   image data).  However for structured data, they often still underperform
